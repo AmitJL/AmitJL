@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Full stack, MERN**
 
-- 📫 How to reach me **amitjlilhare@gmail.com 9096780941**
+- 📫 How to reach me **amitjlilhare@gmail.com +919096780941**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
